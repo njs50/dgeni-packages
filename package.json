@@ -33,7 +33,7 @@
     "canonical-path": "0.0.2",
     "catharsis": "^0.7.0",
     "change-case": "^2.1.0",
-    "dgeni": "angular/dgeni#no-config",
+    "dgeni": "git+ssh://git@github.com/njs50/dgeni#no-config-1",
     "es6-shim": "^0.11.1",
     "esprima": "^1.0.4",
     "glob": "~3.2.8",
@@ -48,7 +48,7 @@
     "winston": "~0.7.2"
   },
   "peerDependencies": {
-    "dgeni": "~0.3.0"
+    "dgeni": ">=0.3.0"
   },
   "devDependencies": {
     "istanbul": "^0.2.7",
